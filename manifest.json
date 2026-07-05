@@ -1,0 +1,17 @@
+{
+  "short_name": "Family Healthy",
+  "name": "Karim's Family",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/822/822143.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#eef2f7",
+  "theme-color": "#3182ce",
+  "display": "standalone",
+  "orientation": "portrait"
+}
